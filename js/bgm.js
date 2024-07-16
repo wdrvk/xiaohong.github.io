@@ -1,0 +1,1 @@
+var bgmsrc = '1.mp3';
